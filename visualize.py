@@ -24,7 +24,7 @@ except Exception as e:
     print(f"Error loading CSV file: {e}")
     exit()
 
-video_path = 'D:\\Comp Vision Proj\\Number Plate Detection\\sample.mp4'
+video_path = './sample.mp4'
 cap = cv2.VideoCapture(video_path)
 if not cap.isOpened():
     print(f"Error opening video file: {video_path}")
