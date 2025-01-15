@@ -9,7 +9,7 @@ results = {}
 mot_tracker = Sort()
 
 coco_model = YOLO('yolov8n.pt')
-license_plate_detector = YOLO('D:\\Comp Vision Proj\\Number Plate Detection\\license_plate_detector.pt')
+license_plate_detector = YOLO('./license_plate_detector.pt')
 
 cap = cv2.VideoCapture('./sample.mp4')
 if not cap.isOpened():
