@@ -48,6 +48,11 @@ Number Plate Detection/
   - `easyocr`
   - `csv`
 
+The Sample Input video - [Input.mp4](https://drive.google.com/file/d/1PAFVorg_cE7VDJxASfvdTQDWd3V_40wV/view?usp=sharing)
+
+The Sample Output video - [Output.mp4](https://drive.google.com/file/d/1Coxxdtoa_dPA6jrKyRTs0NhzeyD3Ja6N/view?usp=sharing)
+
+
 ## Usage
 
 ### Step 1: Setup
